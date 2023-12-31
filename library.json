@@ -1,0 +1,15 @@
+{
+    "id": "CallMeBot_modules",
+    "name": "CallMeBot_modules",
+    "author": "Adriano Aguzzi",
+    "version": "1.0",
+    "modules": [
+      {
+        "id": "CallMeBot",
+        "type": "Module",
+        "aliases": [],
+        "prefix": "CMB"
+      }
+    ]
+  }
+  
