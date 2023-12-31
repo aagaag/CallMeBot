@@ -1,0 +1,8 @@
+{
+    "id": "CallMeBot",
+    "name": "CallMeBot",
+    "type": "Module",
+    "vendor": "YourName",
+    "version": "1.0",
+    "require": "5.1"
+  }
